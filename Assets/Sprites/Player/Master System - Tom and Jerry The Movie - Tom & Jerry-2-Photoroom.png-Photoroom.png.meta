@@ -1,0 +1,2663 @@
+fileFormatVersion: 2
+guid: c4382be57a1ac4dffaaf13db618f79ad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1107
+        width: 48
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3e6098923044dcbbe3bfd2a45f00c8
+      internalID: 622258501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1107
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1035d30def10b4c949f3aacd099187a3
+      internalID: 1249161207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1107
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e290066a934c33b9664bbefe7e517
+      internalID: -276674640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1107
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5712b3340df472fbff5417bcd297c2
+      internalID: -1311455622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1107
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e423e202c5b4adb8c48ecc75e8ff20
+      internalID: 1911829046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1107
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71089cf8f40c14bd48ad44b78098d839
+      internalID: -789042216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1107
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c97825d80f9e46418d5577a4c58cddf
+      internalID: 1158855121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1107
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0be35a5d3ac4dc9aad6118b603c307
+      internalID: -1238999325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1107
+        width: 67
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee26c7874b3842068f28f6899b564cc
+      internalID: 1035492581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1107
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df861d658a8b44b05abb9ec0ad98a820
+      internalID: -1459881246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1107
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4f4d3cd42a94ffd8db1d52e0a914c3
+      internalID: 388246942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1107
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d3cd1c3b3f04676a503adcd962b6f9
+      internalID: -845842741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1107
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b370a7cf9263b433398d295996f1565e
+      internalID: 610822528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1107
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5a4f586271f43849ab8f188b9661a9
+      internalID: 911749735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1107
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d633575a3795a43d198ee9233b2ab4c8
+      internalID: 1095400564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 936
+        width: 66
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbf256c4cd904b2485e97e509be9c68
+      internalID: -1169248401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 936
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8bff922f4b94feab7ff73662f0a644
+      internalID: -629584035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 936
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d106ee12a040f0b5a175a97d2b183
+      internalID: -653560421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 936
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6fe4990eac8411db6be88e2dd755e4
+      internalID: 1529456288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 936
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8547f06433914994b7a692bc5bb126a
+      internalID: -989400395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 936
+        width: 56
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de2706cfbe54a188c433f08d82a7e8
+      internalID: -772924616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 937
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4739839bbeb0440a9c7466448692be5
+      internalID: 1956634210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 936
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c46e9fbe9754d2aabadf074525e51b
+      internalID: 1129426032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 936
+        width: 47
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671bc211d2f34bc2a720a5313f44ff8
+      internalID: 40470513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 936
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c22a2be5f76c434ca2462af860cb2ae
+      internalID: -194270452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 936
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66b56bf062764c73a9fcb68228b745e
+      internalID: -1887911716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 936
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f666bdf5d964496d9e0243cb0306ba6
+      internalID: -271921062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 936
+        width: 110
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a6b9085ce5c45df824139809d8cba7
+      internalID: 297631474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 787
+        width: 68
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101a676da287047c6919c10599345ebf
+      internalID: 1197188496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 787
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add46cf5492e43a8b76aae318eb2ea6
+      internalID: -781691620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 787
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ac4bae61844175bd0dd5271b488f3
+      internalID: -1923054451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 787
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b69e106d1f3471b9362f166e1128fe
+      internalID: 1971645856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 787
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a441cc54712842e0a7ac64497dbbeeb
+      internalID: 1067516414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 787
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d9b78130b0b4cfca5010b5eec60fdb
+      internalID: 1450952150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 787
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a982a551af634b1eaf44599a78924a8
+      internalID: -1864442435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 787
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc52a084ac744ee0a954992afa56111
+      internalID: -34665638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 787
+        width: 67
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aea833db6b9e4b579e282e3bc64dfdc
+      internalID: -224544176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 787
+        width: 46
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011938cbba19a460bae91abdc6e94fe3
+      internalID: 530736488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 787
+        width: 47
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f560b704282a4e369920f154c60da89
+      internalID: 1224675780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 701
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe9517ff92548119ad7b1bfec2f625
+      internalID: -1990971758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 701
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a9cae5934a4340aea3baded239cbc
+      internalID: 715252158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 701
+        width: 101
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a6fe363bd244a638b527ef0be9f223
+      internalID: -1612283266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 701
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9f5fdecddc4a74a94246c136c8fd6
+      internalID: -1124013869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 701
+        width: 111
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33bd23fac127416ebdeaa715257f7d2
+      internalID: 174524410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 701
+        width: 132
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911b194c9ede24af08a36b77cad85596
+      internalID: 45133344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 701
+        width: 107
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886b9b62efc0947ff8ec654214655551
+      internalID: 1266120348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 701
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb458c8c9f4a47ba90e16c4d6c23b35
+      internalID: 2039077800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 574
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c240879bc5452fbcbefebc8a1a9c6
+      internalID: 520191645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 574
+        width: 110
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba2d725a1ab4c698cce7072c6d25fb
+      internalID: 236224985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 574
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb73b1c3ac244461a0e7fa442c540c5
+      internalID: -114447951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 574
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf351b37b5248c9bf70e55fc872685
+      internalID: 2018377296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 574
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179b6dbf7d0974fe69aebb038cb15d2f
+      internalID: -1822716884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 641
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14475f03613c1491eb2974bd321a1b56
+      internalID: 1324171790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 574
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a13d97eeabd47538bf80e0c2ce526d
+      internalID: -1292813312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 574
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e41de75958574b23ab19d467819f684
+      internalID: 781528801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 574
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86b1099955534160b030bb981c08d08
+      internalID: 1478163183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 574
+        width: 105
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450400522172049039957b458963fcf9
+      internalID: 1112180337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 574
+        width: 102
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be130e311184a47e5bb4cc91136bef4b
+      internalID: -2036076538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 574
+        width: 99
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b9224eb484467ebdade2891d05dd1
+      internalID: -647523060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 446
+        width: 46
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9490140b3a924cac83b3b4a6803a0b9
+      internalID: -1898131945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 446
+        width: 25
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da04aa354c54b3ca0929b72682f5ab
+      internalID: -365046543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 446
+        width: 30
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeef456a9dacf450fb9ef8d1c5272df3
+      internalID: 625176476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 446
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1def25ca591b5454084a009479474be5
+      internalID: -1247754529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 446
+        width: 47
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b581bdd7c154bc3bbcf6d53a6ca611
+      internalID: -597636210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 446
+        width: 47
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0b0df606e9b4f30b0a85f61f3d2a0f
+      internalID: 1182716256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 446
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4be970623eb4aed9ba3ed9a61b216a
+      internalID: 1418602687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 411
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da43fb667b2455fa1b6e3dc78bb9ad
+      internalID: 1639027969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 339
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf565f94876354315ac5193f66abaf33
+      internalID: -1977509184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 339
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adbe81a731d043bca284b01fb6b5378
+      internalID: -1120472532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 339
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd17f30379eaf4ce3b674c69a7416136
+      internalID: 811035617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 339
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733fc06fcd97d4d15b70bf76f6a56c08
+      internalID: -952509591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 339
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3fc3232accf4c269c3d9549544adc2
+      internalID: 173965281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 339
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445ed9e5a09db4348aaf8bf9381d3914
+      internalID: 777547509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 339
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71937a3fc4aeb4a12859bdd0a1981855
+      internalID: -1921087745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 339
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47432f9ef19e54171932aa7049b07b08
+      internalID: 565608002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 339
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc1b88d963ee4f19bee59fb21fed475
+      internalID: -566457562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 339
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44e6ff96e134c6686c338e2957eee5
+      internalID: 495726683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 339
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9bcfa5d27b94206acb8f5c29bd26bd
+      internalID: 1225066565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 342
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8791423c15583463096d6facfef44360
+      internalID: -1196769522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 342
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9822bcfce0293469bb8f6447438cb12c
+      internalID: 1590261760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 339
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f24101d6ba384d30ab1bd7b34ac3113
+      internalID: 1483336875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 339
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d57643661324323ae4c1e70d828e52
+      internalID: 929221039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 339
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a52ff5efd414e54a57dda5de9ac205
+      internalID: -171023417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 339
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd5fa0e92930415095a69e848f84c5d
+      internalID: -779937587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 253
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3345f7fbcd3d54a49b9e4a6b67d18247
+      internalID: 1555869832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 253
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6879a563575a4ffbaa50b8a8ce3df5a
+      internalID: 899106794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 253
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e8cf2b4f68c4703aa734ff70471485
+      internalID: -2064450765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 253
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c589a71c785134551b29b3c3b0356d06
+      internalID: 1284918925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 253
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80ff544a0fbb4f6db083d2afe8e5720
+      internalID: 1195929309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 265
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a337b93b785446b0be3a1931b83381d
+      internalID: 1504940363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 259
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219091cab1bfb4c778005c832103da63
+      internalID: 493673952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 253
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa8e73e929d542f2bee2f437498d6ca
+      internalID: 1109939565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 253
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4bcf4ce163b4845bf2a811007a0197
+      internalID: -864080758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 253
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c088214b3a3c484ea89ff50abdead60
+      internalID: -1144625494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 253
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d1071c598294b5fb184e498f341a99
+      internalID: 1401192799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 253
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b480ab2c304f4562b7308fe8e3959bd
+      internalID: -1989272563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 253
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b8bd267eceb44488c648e1176e88c9
+      internalID: 1982975076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 265
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ee1da1fb9df4f32b53d1f8e835a566
+      internalID: -115144114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 265
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb8b5393c7654280838bfd33e594f76
+      internalID: 1013614590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 253
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8febdd3990bd847598ab6652783b2ce4
+      internalID: -1734272317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 253
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7591c9b58a3477aa8d0e6a83eca5a5
+      internalID: -2064084631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 173
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0015496449c84686b993dc9dc8b2d22
+      internalID: 589264580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 169
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73834958397704609ac26da2050ed171
+      internalID: -959956531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 168
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435c60ab7b66741ee9e5031bf9cf0f60
+      internalID: -1703781430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 168
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d88be7914e064bff95124538396efcc
+      internalID: 915559639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 168
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd74bf8618d646aa9489fea42e860a6
+      internalID: -1891445412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 168
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2996bd5b294794cfe990ad7691c53d06
+      internalID: 332809047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 168
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45edeccd12254761a40848f7ef39414
+      internalID: 1935143528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 168
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe65cfad1a6f143b4960ba0251573133
+      internalID: 264409635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 168
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72382985bffee492a9f1be002e2c0774
+      internalID: 1873757104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 168
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996350aaba7734862a113d6a67ade048
+      internalID: 714860882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 168
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15614006eda524697a024e9590aa24cb
+      internalID: 217468233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 168
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfe58cc1dbc241738f7e6e7e5ef4c94
+      internalID: 82067777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 168
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc85d09a34014ceeaee2c9ff77cb41e
+      internalID: -1010869533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 168
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54c67f5e7a3044b2a6219a918f0e252
+      internalID: -1853499518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_0: -561241113
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_1: 622258501
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_10: -1459881246
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_100: -1734272317
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_101: -2064084631
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_102: 589264580
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_103: -959956531
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_104: -1703781430
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_105: 915559639
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_106: -1891445412
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_107: 332809047
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_108: 1935143528
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_109: 264409635
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_11: 388246942
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_110: 1873757104
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_111: 714860882
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_112: 217468233
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_113: 82067777
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_114: -1010869533
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_115: -1853499518
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_116: 491859221
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_117: 427733990
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_118: 2019138023
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_119: -542999064
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_12: -845842741
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_120: 425054555
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_13: 610822528
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_14: 911749735
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_15: 1095400564
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_16: -1169248401
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_17: -629584035
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_18: -653560421
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_19: 1529456288
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_2: 1249161207
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_20: -989400395
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_21: -772924616
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_22: 1956634210
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_23: 1129426032
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_24: 40470513
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_25: -194270452
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_26: -1887911716
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_27: -271921062
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_28: 297631474
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_29: 1197188496
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_3: -276674640
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_30: -781691620
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_31: -1923054451
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_32: 1971645856
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_33: 1067516414
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_34: 1450952150
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_35: -1864442435
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_36: -34665638
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_37: -224544176
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_38: 530736488
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_39: 1224675780
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_4: -1311455622
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_40: -1990971758
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_41: 715252158
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_42: -1612283266
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_43: -1124013869
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_44: 174524410
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_45: 45133344
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_46: 1266120348
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_47: 2039077800
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_48: 520191645
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_49: 236224985
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_5: 1911829046
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_50: -114447951
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_51: 2018377296
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_52: -1822716884
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_53: 1324171790
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_54: -1292813312
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_55: 781528801
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_56: 1478163183
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_57: 1112180337
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_58: -2036076538
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_59: -647523060
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_6: -789042216
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_60: -1898131945
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_61: -365046543
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_62: 625176476
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_63: -1247754529
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_64: -597636210
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_65: 1182716256
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_66: 1418602687
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_67: 1639027969
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_68: -1977509184
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_69: -1120472532
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_7: 1158855121
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_70: 811035617
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_71: -952509591
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_72: 173965281
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_73: 777547509
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_74: -1921087745
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_75: 565608002
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_76: -566457562
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_77: 495726683
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_78: 1225066565
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_79: -1196769522
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_8: -1238999325
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_80: 1590261760
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_81: 1483336875
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_82: 929221039
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_83: -171023417
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_84: -779937587
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_85: 1555869832
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_86: 899106794
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_87: -2064450765
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_88: 1284918925
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_89: 1195929309
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_9: 1035492581
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_90: 1504940363
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_91: 493673952
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_92: 1109939565
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_93: -864080758
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_94: -1144625494
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_95: 1401192799
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_96: -1989272563
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_97: 1982975076
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_98: -115144114
+      Master System - Tom and Jerry The Movie - Tom & Jerry-2-Photoroom.png-Photoroom_99: 1013614590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
