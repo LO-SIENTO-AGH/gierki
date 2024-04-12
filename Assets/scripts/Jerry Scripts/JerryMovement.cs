@@ -1,6 +1,8 @@
+ using System;
  using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class JerryMovement : MonoBehaviour
 {
@@ -79,5 +81,20 @@ public class JerryMovement : MonoBehaviour
                 animator.SetBool("Jump", true);
             }
         }
+   }
+
+
+   private void OnCollisionEnter2D(Collision2D other)
+   {
+       Debug.Log(other.gameObject.name);
+       if (other.gameObject.CompareTag("Finish"))
+       {
+           GameCompleted();
+       }
+   }
+
+   void GameCompleted()
+   {
+       SceneManager.LoadScene("EndScene");
    }
 }
