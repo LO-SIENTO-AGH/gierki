@@ -7,7 +7,7 @@ namespace StartMenu_Scripts
     {
         public void PlayGame()
         {
-            SceneManager.LoadScene("SampleScene");
+            SceneManager.LoadScene("NewScene");
         }
     }
 }
