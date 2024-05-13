@@ -20,6 +20,8 @@ public class JerryMovement : MonoBehaviour
     private bool isOnFence;
     private bool isOnTree;
     private float jumpPower = 5f;
+
+    private bool tmp = false;
    
     void Awake(){
         myBody = GetComponent<Rigidbody2D> ();
@@ -39,6 +41,7 @@ public class JerryMovement : MonoBehaviour
 
     void FixedUpdate(){
         PlayerWalk();
+        Tmpt();
     }
 
     void PlayerWalk(){
@@ -56,7 +59,19 @@ public class JerryMovement : MonoBehaviour
             myBody.velocity = new Vector2(0f, myBody.velocity.y);
         }
 
+        tmp = true;
+        animator.SetBool("Tmp", true);
+        animator.SetBool("TmpTmp", false);
+    
         animator.SetInteger("Speed", Mathf.Abs((int)myBody.velocity.x));
+
+    }
+
+    void Tmpt(){
+        if(tmp){
+            // animator.SetBool("Tmp", false);
+            animator.SetBool("TmpTmp", true);
+        }
     }
 
     void ChangeDirection(int direction){
