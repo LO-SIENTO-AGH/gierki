@@ -1,6 +1,3 @@
- using System;
- using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -115,6 +112,7 @@ public class JerryMovement : MonoBehaviour
    {
        myBody.velocity = new Vector2(speed, jumpPower);
        isOnFence = false;
+       animator.SetBool("Jump", true);
    }
    
    private void OnTriggerEnter2D(Collider2D other)
@@ -131,6 +129,7 @@ public class JerryMovement : MonoBehaviour
            {
                isOnFence = true;
                isGrounded = true;
+               animator.SetBool("Jump", false);
                myBody.gravityScale = 0;
                myBody.velocity = new Vector2(speed, 0);
            }
@@ -179,5 +178,6 @@ public class JerryMovement : MonoBehaviour
        transform.position = position;
        myBody.gravityScale = 0;
        isOnTree = true;
+       animator.SetBool("Jump", false);
    }
 }
