@@ -284,7 +284,7 @@ GameObject:
   - component: {fileID: 78460690}
   m_Layer: 0
   m_Name: tom-waking
-  m_TagString: Untagged
+  m_TagString: Tom
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -303,6 +303,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 589017901}
   speed: 3
+  groundCheckPosition: {fileID: 0}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!61 &78460691
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1341,7 +1345,7 @@ GameObject:
   - component: {fileID: 1859127084}
   m_Layer: 6
   m_Name: Tilemap
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

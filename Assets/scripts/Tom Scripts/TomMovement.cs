@@ -7,14 +7,21 @@ namespace Tom_Scripts
         private Rigidbody2D myBody;
         public Transform target;
         public float speed = 3f;
+        private bool isJumping = false;
+        private Collider2D unitCollider;
         
         void Awake(){
             myBody = GetComponent<Rigidbody2D> ();
+            unitCollider = GetComponent<Collider2D>();
+            IgnoreCollisionWithTreeCircles();
+            
         }
         
         void Update(){
             Walk();
+            Jump();
         }
+        
         
         void Walk()
         {
@@ -34,11 +41,55 @@ namespace Tom_Scripts
                 ChangeDirection(-1);
             }
         }
+
+        void Jump()
+        {
+            if (((target.position.x > 9 && transform.position.x is > 6 and < 7) 
+                 || (target.position.x > 15 && transform.position.x is > 12 and < 13)) 
+                && !isJumping)
+            {
+                myBody.AddForce(new Vector2(0, 7f), ForceMode2D.Impulse);
+                isJumping = true;
+            }
+            if (((transform.position.x is > 33.5f and < 49f) 
+                 || transform.position.x is > 36.5f and < 37.5f
+                 || transform.position.x is > 39.5f and < 41f
+                 || transform.position.x is > 42.5f and < 44f
+                 || transform.position.x is > 45f and < 46.5f
+                 || transform.position.x is > 47.5f and < 49f) 
+                && !isJumping)
+            {
+                myBody.AddForce(new Vector2(0, 6f), ForceMode2D.Impulse);
+                isJumping = true;
+            }
+        }
         
         void ChangeDirection(int direction){
             Vector2 tempScale = transform.localScale;
             tempScale.x = direction;
             transform.localScale = tempScale;
+        }
+        
+        private void OnCollisionEnter2D(Collision2D collision)
+        {
+            // Reset jump when colliding with the ground
+            if (collision.gameObject.CompareTag("Ground"))
+            {
+                isJumping = false;
+            }
+        }
+        
+        void IgnoreCollisionWithTreeCircles()
+        {
+            GameObject[] treeCircles = GameObject.FindGameObjectsWithTag("Tree-circle");
+            foreach (GameObject treeCircle in treeCircles)
+            {
+                Collider2D treeCircleCollider = treeCircle.GetComponent<Collider2D>();
+                if (treeCircleCollider != null)
+                {
+                    Physics2D.IgnoreCollision(unitCollider, treeCircleCollider);
+                }
+            }
         }
 
     }

@@ -31,6 +31,8 @@ public class JerryMovement : MonoBehaviour
 
     // Update is called once per frame
     void Update(){
+        Debug.Log("x: " + transform.position.x);
+        //Debug.Log("y: " + transform.position.y);
         CheckIfGrounded();
         PlayerJump();
         CheckJumpFromFence();
@@ -148,6 +150,10 @@ public class JerryMovement : MonoBehaviour
        {
            GameCompleted();
        }
+       if (other.gameObject.CompareTag("Tom"))
+       {
+           Defeat();
+       }
        if (other.gameObject.CompareTag("Tree-circle"))
        {
            OnTree();
@@ -169,6 +175,11 @@ public class JerryMovement : MonoBehaviour
    void GameCompleted()
    {
        SceneManager.LoadScene("EndScene");
+   }
+   
+   void Defeat()
+   {
+       SceneManager.LoadScene("Defeat");
    }
 
    void OnTree()
